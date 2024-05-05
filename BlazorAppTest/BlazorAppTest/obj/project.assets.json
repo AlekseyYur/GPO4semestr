@@ -5112,23 +5112,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MrDeef\\.nuget\\packages\\": {},
+    "C:\\Users\\79085\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MrDeef\\Desktop\\Лабы програмирование\\BlazorAppTest\\BlazorAppTest\\BlazorAppTest\\BlazorAppTest.csproj",
+      "projectUniqueName": "C:\\Users\\79085\\Documents\\GitHub\\GPO4semestr\\BlazorAppTest\\BlazorAppTest\\BlazorAppTest.csproj",
       "projectName": "BlazorAppTest",
-      "projectPath": "C:\\Users\\MrDeef\\Desktop\\Лабы програмирование\\BlazorAppTest\\BlazorAppTest\\BlazorAppTest\\BlazorAppTest.csproj",
-      "packagesPath": "C:\\Users\\MrDeef\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MrDeef\\Desktop\\Лабы програмирование\\BlazorAppTest\\BlazorAppTest\\BlazorAppTest\\obj\\",
+      "projectPath": "C:\\Users\\79085\\Documents\\GitHub\\GPO4semestr\\BlazorAppTest\\BlazorAppTest\\BlazorAppTest.csproj",
+      "packagesPath": "C:\\Users\\79085\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\79085\\Documents\\GitHub\\GPO4semestr\\BlazorAppTest\\BlazorAppTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\MrDeef\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\79085\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5143,8 +5143,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\MrDeef\\Desktop\\Лабы програмирование\\BlazorAppTest\\BlazorAppTest\\BlazorAppTest.Client\\BlazorAppTest.Client.csproj": {
-              "projectPath": "C:\\Users\\MrDeef\\Desktop\\Лабы програмирование\\BlazorAppTest\\BlazorAppTest\\BlazorAppTest.Client\\BlazorAppTest.Client.csproj"
+            "C:\\Users\\79085\\Documents\\GitHub\\GPO4semestr\\BlazorAppTest\\BlazorAppTest.Client\\BlazorAppTest.Client.csproj": {
+              "projectPath": "C:\\Users\\79085\\Documents\\GitHub\\GPO4semestr\\BlazorAppTest\\BlazorAppTest.Client\\BlazorAppTest.Client.csproj"
             }
           }
         }
@@ -5204,7 +5204,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
