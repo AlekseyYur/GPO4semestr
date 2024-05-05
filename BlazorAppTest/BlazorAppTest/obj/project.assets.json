@@ -5118,11 +5118,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\79085\\Documents\\GitHub\\GPO4semestr\\BlazorAppTest\\BlazorAppTest\\BlazorAppTest.csproj",
+      "projectUniqueName": "C:\\Users\\79085\\Documents\\GitHub\\OurGpo\\GPO4semestr\\BlazorAppTest\\BlazorAppTest\\BlazorAppTest.csproj",
       "projectName": "BlazorAppTest",
-      "projectPath": "C:\\Users\\79085\\Documents\\GitHub\\GPO4semestr\\BlazorAppTest\\BlazorAppTest\\BlazorAppTest.csproj",
+      "projectPath": "C:\\Users\\79085\\Documents\\GitHub\\OurGpo\\GPO4semestr\\BlazorAppTest\\BlazorAppTest\\BlazorAppTest.csproj",
       "packagesPath": "C:\\Users\\79085\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\79085\\Documents\\GitHub\\GPO4semestr\\BlazorAppTest\\BlazorAppTest\\obj\\",
+      "outputPath": "C:\\Users\\79085\\Documents\\GitHub\\OurGpo\\GPO4semestr\\BlazorAppTest\\BlazorAppTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5143,8 +5143,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\79085\\Documents\\GitHub\\GPO4semestr\\BlazorAppTest\\BlazorAppTest.Client\\BlazorAppTest.Client.csproj": {
-              "projectPath": "C:\\Users\\79085\\Documents\\GitHub\\GPO4semestr\\BlazorAppTest\\BlazorAppTest.Client\\BlazorAppTest.Client.csproj"
+            "C:\\Users\\79085\\Documents\\GitHub\\OurGpo\\GPO4semestr\\BlazorAppTest\\BlazorAppTest.Client\\BlazorAppTest.Client.csproj": {
+              "projectPath": "C:\\Users\\79085\\Documents\\GitHub\\OurGpo\\GPO4semestr\\BlazorAppTest\\BlazorAppTest.Client\\BlazorAppTest.Client.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LNOw7l55k3Cv01uyh1CtEwFnEOBIxWx59MmJTyecsSxqH0eBZHt02762Pg2mGFnPO2p1JYruZuR9Fi0U9pO2zw==",
+  "dgSpecHash": "8O4lFHFauuz8tx1QSgj9ZBvDyHd3PxBJxF2AjMa84DC1ItX4ezeUWGcfqAVm3QWZc4N+H/XVY/VvdR1E4wkbEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\79085\\Documents\\GitHub\\GPO4semestr\\BlazorAppTest\\BlazorAppTest\\BlazorAppTest.csproj",
+  "projectFilePath": "C:\\Users\\79085\\Documents\\GitHub\\OurGpo\\GPO4semestr\\BlazorAppTest\\BlazorAppTest\\BlazorAppTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\79085\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\79085\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

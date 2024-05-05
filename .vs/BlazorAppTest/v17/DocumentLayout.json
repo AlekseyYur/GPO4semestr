@@ -1,18 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\79085\\Documents\\GitHub\\GPO4semestr\\",
+  "WorkspaceRootPath": "C:\\Users\\79085\\Documents\\GitHub\\OurGpo\\GPO4semestr\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C35754D0-6BB8-48E8-A2F8-A3A8389A8FB5}|BlazorAppTest\\BlazorAppTest\\BlazorAppTest.csproj|c:\\users\\79085\\documents\\github\\gpo4semestr\\blazorapptest\\blazorapptest\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C35754D0-6BB8-48E8-A2F8-A3A8389A8FB5}|BlazorAppTest\\BlazorAppTest\\BlazorAppTest.csproj|c:\\users\\79085\\documents\\github\\ourgpo\\gpo4semestr\\blazorapptest\\blazorapptest\\data\\migrations\\20240505114046_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35754D0-6BB8-48E8-A2F8-A3A8389A8FB5}|BlazorAppTest\\BlazorAppTest\\BlazorAppTest.csproj|solutionrelative:blazorapptest\\blazorapptest\\data\\migrations\\20240505114046_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C35754D0-6BB8-48E8-A2F8-A3A8389A8FB5}|BlazorAppTest\\BlazorAppTest\\BlazorAppTest.csproj|C:\\Users\\79085\\Documents\\GitHub\\OurGpo\\GPO4semestr\\blazorapptest\\blazorapptest\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C35754D0-6BB8-48E8-A2F8-A3A8389A8FB5}|BlazorAppTest\\BlazorAppTest\\BlazorAppTest.csproj|solutionrelative:blazorapptest\\blazorapptest\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C35754D0-6BB8-48E8-A2F8-A3A8389A8FB5}|BlazorAppTest\\BlazorAppTest\\BlazorAppTest.csproj|c:\\users\\79085\\documents\\github\\gpo4semestr\\blazorapptest\\blazorapptest\\data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C35754D0-6BB8-48E8-A2F8-A3A8389A8FB5}|BlazorAppTest\\BlazorAppTest\\BlazorAppTest.csproj|solutionrelative:blazorapptest\\blazorapptest\\data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C35754D0-6BB8-48E8-A2F8-A3A8389A8FB5}|BlazorAppTest\\BlazorAppTest\\BlazorAppTest.csproj|C:\\Users\\79085\\Documents\\GitHub\\OurGpo\\GPO4semestr\\blazorapptest\\blazorapptest\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35754D0-6BB8-48E8-A2F8-A3A8389A8FB5}|BlazorAppTest\\BlazorAppTest\\BlazorAppTest.csproj|solutionrelative:blazorapptest\\blazorapptest\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C35754D0-6BB8-48E8-A2F8-A3A8389A8FB5}|BlazorAppTest\\BlazorAppTest\\BlazorAppTest.csproj|C:\\Users\\79085\\Documents\\GitHub\\GPO4semestr\\blazorapptest\\blazorapptest\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C35754D0-6BB8-48E8-A2F8-A3A8389A8FB5}|BlazorAppTest\\BlazorAppTest\\BlazorAppTest.csproj|solutionrelative:blazorapptest\\blazorapptest\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C35754D0-6BB8-48E8-A2F8-A3A8389A8FB5}|BlazorAppTest\\BlazorAppTest\\BlazorAppTest.csproj|C:\\Users\\79085\\Documents\\GitHub\\OurGpo\\GPO4semestr\\blazorapptest\\blazorapptest\\data\\models\\accrual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35754D0-6BB8-48E8-A2F8-A3A8389A8FB5}|BlazorAppTest\\BlazorAppTest\\BlazorAppTest.csproj|solutionrelative:blazorapptest\\blazorapptest\\data\\models\\accrual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C35754D0-6BB8-48E8-A2F8-A3A8389A8FB5}|BlazorAppTest\\BlazorAppTest\\BlazorAppTest.csproj|C:\\Users\\79085\\Documents\\GitHub\\OurGpo\\GPO4semestr\\blazorapptest\\blazorapptest\\data\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35754D0-6BB8-48E8-A2F8-A3A8389A8FB5}|BlazorAppTest\\BlazorAppTest\\BlazorAppTest.csproj|solutionrelative:blazorapptest\\blazorapptest\\data\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C35754D0-6BB8-48E8-A2F8-A3A8389A8FB5}|BlazorAppTest\\BlazorAppTest\\BlazorAppTest.csproj|C:\\Users\\79085\\Documents\\GitHub\\OurGpo\\GPO4semestr\\blazorapptest\\blazorapptest\\data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35754D0-6BB8-48E8-A2F8-A3A8389A8FB5}|BlazorAppTest\\BlazorAppTest\\BlazorAppTest.csproj|solutionrelative:blazorapptest\\blazorapptest\\data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +34,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "20240505114046_first.cs",
+              "DocumentMoniker": "C:\\Users\\79085\\Documents\\GitHub\\OurGpo\\GPO4semestr\\BlazorAppTest\\BlazorAppTest\\Data\\Migrations\\20240505114046_first.cs",
+              "RelativeDocumentMoniker": "BlazorAppTest\\BlazorAppTest\\Data\\Migrations\\20240505114046_first.cs",
+              "ToolTip": "C:\\Users\\79085\\Documents\\GitHub\\OurGpo\\GPO4semestr\\BlazorAppTest\\BlazorAppTest\\Data\\Migrations\\20240505114046_first.cs",
+              "RelativeToolTip": "BlazorAppTest\\BlazorAppTest\\Data\\Migrations\\20240505114046_first.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T11:40:47.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Purchase.cs",
+              "DocumentMoniker": "C:\\Users\\79085\\Documents\\GitHub\\OurGpo\\GPO4semestr\\BlazorAppTest\\BlazorAppTest\\Data\\models\\Purchase.cs",
+              "RelativeDocumentMoniker": "BlazorAppTest\\BlazorAppTest\\Data\\models\\Purchase.cs",
+              "ToolTip": "C:\\Users\\79085\\Documents\\GitHub\\OurGpo\\GPO4semestr\\BlazorAppTest\\BlazorAppTest\\Data\\models\\Purchase.cs",
+              "RelativeToolTip": "BlazorAppTest\\BlazorAppTest\\Data\\models\\Purchase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T11:36:58.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Accrual.cs",
+              "DocumentMoniker": "C:\\Users\\79085\\Documents\\GitHub\\OurGpo\\GPO4semestr\\BlazorAppTest\\BlazorAppTest\\Data\\models\\Accrual.cs",
+              "RelativeDocumentMoniker": "BlazorAppTest\\BlazorAppTest\\Data\\models\\Accrual.cs",
+              "ToolTip": "C:\\Users\\79085\\Documents\\GitHub\\OurGpo\\GPO4semestr\\BlazorAppTest\\BlazorAppTest\\Data\\models\\Accrual.cs",
+              "RelativeToolTip": "BlazorAppTest\\BlazorAppTest\\Data\\models\\Accrual.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T11:36:45.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\79085\\Documents\\GitHub\\GPO4semestr\\BlazorAppTest\\BlazorAppTest\\Data\\models\\Category.cs",
+              "DocumentMoniker": "C:\\Users\\79085\\Documents\\GitHub\\OurGpo\\GPO4semestr\\BlazorAppTest\\BlazorAppTest\\Data\\models\\Category.cs",
               "RelativeDocumentMoniker": "BlazorAppTest\\BlazorAppTest\\Data\\models\\Category.cs",
-              "ToolTip": "C:\\Users\\79085\\Documents\\GitHub\\GPO4semestr\\BlazorAppTest\\BlazorAppTest\\Data\\models\\Category.cs",
+              "ToolTip": "C:\\Users\\79085\\Documents\\GitHub\\OurGpo\\GPO4semestr\\BlazorAppTest\\BlazorAppTest\\Data\\models\\Category.cs",
               "RelativeToolTip": "BlazorAppTest\\BlazorAppTest\\Data\\models\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T09:26:17.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T09:26:17.308Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\79085\\Documents\\GitHub\\GPO4semestr\\BlazorAppTest\\BlazorAppTest\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\79085\\Documents\\GitHub\\OurGpo\\GPO4semestr\\BlazorAppTest\\BlazorAppTest\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "BlazorAppTest\\BlazorAppTest\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\79085\\Documents\\GitHub\\GPO4semestr\\BlazorAppTest\\BlazorAppTest\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\79085\\Documents\\GitHub\\OurGpo\\GPO4semestr\\BlazorAppTest\\BlazorAppTest\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "BlazorAppTest\\BlazorAppTest\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T09:20:44.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T09:20:44.853Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\79085\\Documents\\GitHub\\GPO4semestr\\BlazorAppTest\\BlazorAppTest\\Data\\ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\79085\\Documents\\GitHub\\OurGpo\\GPO4semestr\\BlazorAppTest\\BlazorAppTest\\Data\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "BlazorAppTest\\BlazorAppTest\\Data\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\79085\\Documents\\GitHub\\GPO4semestr\\BlazorAppTest\\BlazorAppTest\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\79085\\Documents\\GitHub\\OurGpo\\GPO4semestr\\BlazorAppTest\\BlazorAppTest\\Data\\ApplicationUser.cs",
               "RelativeToolTip": "BlazorAppTest\\BlazorAppTest\\Data\\ApplicationUser.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwCgAAABMAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACgAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T09:20:42.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T09:20:42.649Z"
             }
           ]
         }
