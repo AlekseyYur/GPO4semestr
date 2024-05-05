@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3X3exKzqdhKn6JY812wSBDioPA3NIghzBDFSS/uLsve4cahUTaFgijV7fP6YGQYYEpfZa1Jm7O6Jl2y+LxWL0A==",
+  "dgSpecHash": "II4ysrdW0Z+OeMs0J6k/qjYYlv2RJjfmyuBniw/L1Sw96nLrjF+rHZ5TQ2a6eO10bLP6MdpWiq0igpPS35bH/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MrDeef\\Desktop\\Лабы програмирование\\BlazorAppTest\\BlazorAppTest\\BlazorAppTest.Client\\BlazorAppTest.Client.csproj",
+  "projectFilePath": "C:\\Users\\MrDeef\\Documents\\GitHub\\GPO4semestr\\BlazorAppTest\\BlazorAppTest.Client\\BlazorAppTest.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MrDeef\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.3\\microsoft.aspnetcore.authorization.8.0.3.nupkg.sha512",
     "C:\\Users\\MrDeef\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.3\\microsoft.aspnetcore.components.8.0.3.nupkg.sha512",
