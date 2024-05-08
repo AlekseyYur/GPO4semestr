@@ -6,3 +6,13 @@ artifacts/
 .vscode/
 .dotnet/
 *.binlog
+*.wasm
+*.gz
+*.dll
+*.js
+*.json
+*.bin
+*.pdb
+*.cache
+*.suo
+*.vsidx
