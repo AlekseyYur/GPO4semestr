@@ -7,7 +7,24 @@
         private string _shop_name;
         private readonly Category _category;
         private readonly DateTime _datetime;
-        public float Price { get { return _price; } set { _price = value; } }
+        public string SPrice 
+        { 
+            get { return _price.ToString(); } 
+            set 
+            { 
+                _price = float.Parse(value); 
+            } 
+        }
+
+        public float Price 
+        { 
+            get { return _price; } 
+            set 
+            { 
+                _price = value; 
+            } 
+        }
+
         public string Shop_Name { get { return _shop_name; } set { _shop_name = value; } }
         public Category Category { get { return _category; } }
 
@@ -18,10 +35,19 @@
             Price = price;
             Shop_Name = shop_name;
             _category = category;
-            _datetime = DateTime.Now;
+            _datetime = DateTime.UtcNow;
         }
         public Purchase()
         {
+            _datetime = DateTime.UtcNow;
+        }
+
+        public Purchase(Purchase purchase)
+        {
+            Price = purchase.Price;
+            Shop_Name = purchase.Shop_Name;
+            _category = purchase.Category;
+            _datetime = purchase.DateTime;
 
         }
 

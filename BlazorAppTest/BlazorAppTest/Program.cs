@@ -73,3 +73,6 @@ app.MapAdditionalIdentityEndpoints();
 builder.Services.AddHttpContextAccessor();
 
 app.Run();
+
+
+

@@ -1,8 +1,26 @@
 ﻿@page "/Add"
 
-@using System.Security.Claims
 
+
+@using System.Security.Claims
+@using BlazorAppTest.Data.models
+@using BlazorAppTest.Data
+@using Microsoft.AspNetCore.Authorization
+@using Microsoft.AspNetCore.Identity
+@using BlazorAppTest.Components.Account.Shared
+@using BlazorAppTest.Components.Account
+
+
+@attribute [Authorize]
 @inject IHttpContextAccessor HttpContextAccessor
+@inject IUserStore<ApplicationUser> UserStore
+@inject AuthenticationStateProvider GetAuthenticationStateAsync
+@inject UserManager<ApplicationUser> UserManager
+@inject SignInManager<ApplicationUser> SignInManager
+@inject IdentityUserAccessor UserAccessor
+@inject IdentityRedirectManager RedirectManager
+@inject ApplicationDbContext DbContext
+
 
 <h3>Add</h3>
 
@@ -14,15 +32,37 @@
 
 <div class="row">
 	<div class="col">
-		<EditForm Model="purchase" >
-
+		<EditForm Model="newPurchase" OnValidSubmit="addPurchase">
+			<div class="form-group">
+				<label>Name:</label>
+				<InputText class="form-control" @bind-Value="newPurchase.Shop_Name" />
+			</div>
+			<div class="form-group">
+				<label>Cost:</label>
+				<InputText class="form-control" @bind-Value="newPurchase.SPrice" />
+			</div>
 		</EditForm>
 	</div>
-</div>
+</div> 
 
 @code {
-	var principal = HttpContextAccessor.HttpContext.User;
-	var loggedInUserId = principal.FindFirstValue(ClaimTypes.NameIdentifier);
-	var purchase;
+	Purchase newPurchase = new();
+
+	private ApplicationUser user = default!;
+
+	[CascadingParameter]
+	private HttpContext HttpContext { get; set; } = default!;
+
+	protected async override Task OnInitializedAsync()
+	{
+		user = await UserAccessor.GetRequiredUserAsync(HttpContext);
+	}
+
+
+	void addPurchase()
+	{
+		user.Purchases.Add(new Purchase(newPurchase));
+	}
+
 
 }
